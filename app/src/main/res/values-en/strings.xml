@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SanzPansAntonio_ExamenPractico</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="dept_no">Dep. Number</string>
+    <string name="search_dept">Search Dept</string>
+    <string name="errorddbb">DDBB Error</string>
+</resources>
